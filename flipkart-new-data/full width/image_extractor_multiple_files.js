@@ -20,7 +20,7 @@ for (let i = 0; i < files.length; i++) {
     for (let i = 0; i < page.length; ++i) {
         // iterate over json key value pairs
         for (let key in page[i]) {
-            if (key.includes('Image')) {
+            if (key.includes('image')) {
                 links += page[i][key] + '\n';
             }
         }
