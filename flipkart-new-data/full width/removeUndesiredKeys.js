@@ -13,7 +13,7 @@ function removeUndesiredProperty(data, propertyName) {
 function removeEmptyKeys(data) {
     for (obj of data) {
         for (key in obj) {
-            if (!obj[key] || obj[key] == 'N/A' || obj[key] == 'NA' || obj[key] == "Add to Compare") { delete obj[key]; }
+            if (!obj[key] || obj[key] == 'N/A' || obj[key] == 'NA' || obj[key] == "Add to Compare" || obj[key] == "Ad") { delete obj[key]; }
         }
     }
 }
