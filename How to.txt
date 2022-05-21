@@ -1,0 +1,2 @@
+make a file, containing mapping of all options to the correct files
+complexity will be reduced very much.
