@@ -8,6 +8,17 @@ function removeUndesiredProperty(data, propertyName) {
         }
     }
 }
+function removeUndesiredPropertyFromAllFiles(propertyName) {
+    let files = fs.readdirSync('./');
+    for(file of files) {
+        if(!file.includes('json')) continue;
+        let data = require('./' + file);
+
+        removeUndesiredProperty(data, propertyName);
+        writeNewFile(data, file);
+    }
+}
+
 
 // remove the empty keys
 function removeEmptyKeys(data) {
@@ -17,7 +28,6 @@ function removeEmptyKeys(data) {
         }
     }
 }
-
 // remove all keys from all files that have empty value 
 function removeEmptyKeysFromAllFiles() {
     let files = fs.readdirSync('./');
@@ -30,6 +40,7 @@ function removeEmptyKeysFromAllFiles() {
         writeNewFile(data, file);
     }
 }
+
 
 function writeNewFile(data, fileName) {
     // delete actual file
@@ -55,4 +66,5 @@ function writeNewFile(data, fileName) {
 // removeUndesiredProperty(data, propertyName);
 // writeNewFile(data, fileName);
 // task to perform
-removeEmptyKeysFromAllFiles();
+// removeEmptyKeysFromAllFiles();
+removeUndesiredPropertyFromAllFiles('site');
