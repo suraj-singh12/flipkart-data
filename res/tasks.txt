@@ -1,0 +1,8 @@
+1) make html file with all attributes included, give ids to all (same as property name), and apply display: none by default to all
+2) create page for fullWidth items seperately
+
+3) later: make 3rd page (same for all)
+
+4) create js files for apis after watching lecture again
+
+-> then work on zomato apis
