@@ -1,22 +1,19 @@
 [
     {
-        "image": "img", 
+        "image": "img",
         "description": "div",
         "brand": "div",
         "color": "div",
-
         "start1": "div",
         "stars": "span",
         "ratings": "span",
         "reviews": "span",
         "end1": "div",
-
         "start2": "div",
         "new_price": "span",
         "old_price": "span",
         "discount": "span",
         "end2": "div",
-        
         "delivery_type": "div",
         "offer": "div"
     }

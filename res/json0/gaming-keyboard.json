@@ -7,7 +7,8 @@
         "old_price": "₹3,999",
         "discount": "54% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img0/-original-image8f8cz3vhbvc.jpeg",
@@ -65,7 +66,8 @@
         "old_price": "₹1,699",
         "discount": "44% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/zeb-transformer-k4-double-injection-backlit-keycaps-control-knob-original-imagax93dw76zqyr.jpeg",
@@ -147,7 +149,8 @@
         "old_price": "₹15,999",
         "discount": "37% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img0/t16-104-keys-rgb-backlight-usb-gaming-keyboards-viboton-original-imag9vjfuvpjkyhx.jpeg",
@@ -205,7 +208,8 @@
         "old_price": "₹21,700",
         "discount": "17% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/tuf-gaming-k1-ra04-asus-original-imagyz9yuzkuzy64.jpeg",
@@ -227,7 +231,8 @@
         "old_price": "₹3,999",
         "discount": "55% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.5"
     },
     {
         "image": "res/img0/shadow-amulet-redgear-original-imag2gvgqansg9jc.jpeg",
@@ -333,7 +338,8 @@
         "old_price": "₹849",
         "discount": "1% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/tartarus-pro-analog-optical-mercury-razer-original-imagfqbhqwysqfsx.jpeg",
@@ -343,7 +349,8 @@
         "old_price": "₹14,999",
         "discount": "33% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img0/hyperx-hx-kb5me2-us-original-imafbybs6z58r4dr.jpeg",
@@ -377,7 +384,8 @@
         "old_price": "₹1,499",
         "discount": "61% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/omen-sequencer-hp-original-imag93vhkgcy2hpe.jpeg",
@@ -411,7 +419,8 @@
         "old_price": "₹2,199",
         "discount": "18% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img0/evo-fox-katana-mechanical-and-programmable-led-amkette-original-imagfm9cr3rezkkc.jpeg",
@@ -455,7 +464,8 @@
         "color": "Black",
         "new_price": "₹4,199",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img0/single-handed-usb-gaming-mechanical-keyboard-wired-39-keys-original-imag44zmt6j63quv.jpeg",
@@ -489,7 +499,8 @@
         "old_price": "₹3,499",
         "discount": "22% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/hermes-m5-wired-mechanical-gaming-keyboard-gamdias-original-imagffygspfagtxm.jpeg",
@@ -523,7 +534,8 @@
         "old_price": "₹21,700",
         "discount": "20% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/k95-rgb-platinum-xt-mx-brown-corsair-original-imag9yytuh6zjhuu.jpeg",
@@ -533,7 +545,8 @@
         "old_price": "₹21,700",
         "discount": "17% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/ants-esport-mk-1000-original-imafhb2hcxnxkuyt.jpeg",
@@ -555,7 +568,8 @@
         "old_price": "₹9,500",
         "discount": "49% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.0"
     },
     {
         "image": "res/img0/hp-gk320-gaming-keyboard-original-imafpsf9mbyy4grz.jpeg",
@@ -575,7 +589,8 @@
         "old_price": "₹2,199",
         "discount": "18% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img0/md1000gk-fireblade-led-backlit-tangle-free-nylon-microdigit-original-imagchyx5tzuwn7q.jpeg",
@@ -585,7 +600,8 @@
         "old_price": "₹1,499",
         "discount": "34% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img0/one-handed-gaming-keyboard-rgb-backlit-35-keys-6-button-gaming-original-imag86zhhezttz7y.jpeg",
@@ -607,7 +623,8 @@
         "old_price": "₹4,955",
         "discount": "55% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/hyperx-wrist-rest-original-imafqqhwdqnsnrc8.jpeg",
@@ -615,7 +632,8 @@
         "color": "Black",
         "new_price": "₹1,890",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img0/roq-foldable-original-imafbj6rd3bmgxeh.jpeg",
@@ -637,7 +655,8 @@
         "old_price": "₹1,600",
         "discount": "34% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/xanova-magnetar-with-cherry-mx-rgb-red-switches-original-imafdws5gp75e8ry.jpeg",
@@ -647,7 +666,8 @@
         "old_price": "₹14,299",
         "discount": "20% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/premium-quality-mobile-gamming-keyboard-with-palm-support-original-imagfjgtpxb5vkyj.jpeg",
@@ -681,7 +701,8 @@
         "old_price": "₹999",
         "discount": "30% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img0/cb-gk-24-equinox-alturas-per-key-rgb-mechanical-blue-switch-original-imag84ycyb35vyap.jpeg",
@@ -714,7 +735,8 @@
         "new_price": "₹699",
         "old_price": "₹1,199",
         "discount": "41% off",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.3"
     },
     {
         "image": "res/img0/oxza-foldable-original-imaexvsr3uzutfmu.jpeg",
@@ -771,7 +793,8 @@
         "old_price": "₹16,999",
         "discount": "21% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img0/redragon-k552-original-imafjahshqujvgts.jpeg",
@@ -803,7 +826,8 @@
         "color": "Black",
         "new_price": "₹16,299",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.6"
     },
     {
         "image": "res/img0/redragon-k552-rgb-original-imafj4d2zwzqfzhb.jpeg",
@@ -825,7 +849,8 @@
         "old_price": "₹2,199",
         "discount": "18% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.7"
     },
     {
         "image": "res/img0/premium-quality-mobile-gamming-keyboard-with-palm-support-original-imagfjgtpxb5vkyj.jpeg",
@@ -835,7 +860,8 @@
         "old_price": "₹1,949",
         "discount": "8% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.8"
     },
     {
         "image": "res/img0/35-keys-one-handed-wired-mobile-gamming-keyboard-with-colorful-original-imagfjg969am47kv.jpeg",
@@ -845,7 +871,8 @@
         "old_price": "₹2,199",
         "discount": "18% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.4"
     },
     {
         "image": "res/img0/kala-k557-rgb-mechanical-keyboard-redragon-original-imag5c3rygpkjgyk.jpeg",
@@ -855,7 +882,8 @@
         "old_price": "₹4,490",
         "discount": "17% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.1"
     },
     {
         "image": "res/img0/meetion-mt-mk20-original-imafpfywhfghmfsv.jpeg",
@@ -865,7 +893,8 @@
         "old_price": "₹5,199",
         "discount": "32% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "4.2"
     },
     {
         "image": "res/img0/premium-quality-mobile-gamming-keyboard-with-palm-support-original-imagfjjkhaehzg4w.jpeg",
@@ -875,7 +904,8 @@
         "old_price": "₹2,199",
         "discount": "18% off",
         "delivery_type": "Free delivery",
-        "offer": "Bank Offer"
+        "offer": "Bank Offer",
+        "hidden_stars": "3.9"
     },
     {
         "image": "res/img0/nk-19-valoz-gaming-keyboard-and-np-021-xl-mousemat-80cm-x-30cm-original-imag2ytsvzwsyuh3.jpeg",
