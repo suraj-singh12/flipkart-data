@@ -5,19 +5,19 @@
         "color": "Red, Stereo Channel",
         "stars": "4",
         "reviews": "(100)",
-        "new-price": "₹594",
-        "old-price": "₹1,399",
+        "new_price": "₹594",
+        "old_price": "₹1,399",
         "discount": "57% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/mini-portable-blueooth-speaker-sykz-original-imag9wzqw6feh3nx.jpeg",
         "description": "sykz Portable/Wireless Bluetooth speakers For Music/Pho...",
         "color": "Black, Stereo Channel",
-        "new-price": "₹448",
-        "old-price": "₹999",
+        "new_price": "₹448",
+        "old_price": "₹999",
         "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/brand-new-3d-sound-with-rock-beat-blast-stereo-deep-bass-original-imafvxczvzhcxcpp.jpeg",
@@ -25,10 +25,10 @@
         "color": "ARMY PRINT, Stereo Channel",
         "stars": "3.9",
         "reviews": "(57,896)",
-        "new-price": "₹393",
-        "old-price": "₹1,500",
+        "new_price": "₹393",
+        "old_price": "₹1,500",
         "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/wireless-rechargeable-brand-new-top-selling-portable-stereo-original-imagbnehhcuxejpv.jpeg",
@@ -36,10 +36,10 @@
         "color": "Black, Stereo Channel",
         "stars": "3.9",
         "reviews": "(57,896)",
-        "new-price": "₹383",
-        "old-price": "₹1,500",
+        "new_price": "₹383",
+        "old_price": "₹1,500",
         "discount": "74% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/bs5pl-bk-mivi-original-imag3sgmv9hzrncf.jpeg",
@@ -47,10 +47,10 @@
         "color": "Black, Mono Channel",
         "stars": "4.2",
         "reviews": "(55,639)",
-        "new-price": "₹899",
-        "old-price": "₹1,999",
+        "new_price": "₹899",
+        "old_price": "₹1,999",
         "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/best-popularity-high-bass-bluetooth-speaker-f-ferons-original-imag9at3wpvwa97g.jpeg",
@@ -58,10 +58,10 @@
         "color": "BLUE CAMAOUFLAGE, Stereo Channel",
         "stars": "3.9",
         "reviews": "(57,896)",
-        "new-price": "₹445",
-        "old-price": "₹1,500",
+        "new_price": "₹445",
+        "old_price": "₹1,500",
         "discount": "70% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-1000-boat-original-imafw785dq6xtta4.jpeg",
@@ -69,10 +69,10 @@
         "color": "Black, Stereo Channel",
         "stars": "4.4",
         "reviews": "(64,918)",
-        "new-price": "₹2,099",
-        "old-price": "₹6,990",
+        "new_price": "₹2,099",
+        "old_price": "₹6,990",
         "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/m-6s-6-5-inch-2-way-in-wall-micca-original-imafz753b67n24fh.jpeg",
@@ -80,10 +80,10 @@
         "color": "White, Mono Channel",
         "stars": "3.5",
         "reviews": "(4)",
-        "new-price": "₹3,861",
-        "old-price": "₹4,990",
+        "new_price": "₹3,861",
+        "old_price": "₹4,990",
         "discount": "22% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/new-arrival-ultra-dj-sound-blast-with-super-deep-bass-wireless-original-imag8y6mzgbpq2dz.jpeg",
@@ -91,10 +91,10 @@
         "color": "Red, Stereo Channel",
         "stars": "3.9",
         "reviews": "(57,896)",
-        "new-price": "₹392",
-        "old-price": "₹1,500",
+        "new_price": "₹392",
+        "old_price": "₹1,500",
         "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/100-best-quality-super-bass-3d-sound-wireless-bluetooth-speaker-original-imafxb8jyaffhes2.jpeg",
@@ -102,10 +102,10 @@
         "color": "Black, Stereo Channel",
         "stars": "4",
         "reviews": "(11,017)",
-        "new-price": "₹389",
-        "old-price": "₹900",
+        "new_price": "₹389",
+        "old_price": "₹900",
         "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/bs5rm2-bk-mivi-original-imafyg8xbv9rfsnn.jpeg",
@@ -113,19 +113,19 @@
         "color": "Black, Mono Channel",
         "stars": "4.3",
         "reviews": "(56,274)",
-        "new-price": "₹999",
-        "old-price": "₹2,999",
+        "new_price": "₹999",
+        "old_price": "₹2,999",
         "discount": "66% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/projector-series-wooden-bluetooth-speaker-sbt-917-sykz-original-imagcpwsatcgj9uz.jpeg",
         "description": "sykz SYKZ SBT_917 20 W Bluetooth Speaker",
         "color": "Yellow, Stereo Channel",
-        "new-price": "₹589",
-        "old-price": "₹1,099",
+        "new_price": "₹589",
+        "old_price": "₹1,099",
         "discount": "46% off",
-        "delivery-type": "Bank Offer"
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img2/stone-350-boat-original-imafyebfjguufap8.jpeg",
@@ -133,10 +133,10 @@
         "color": "Blue, Mono Channel",
         "stars": "4.3",
         "reviews": "(55,508)",
-        "new-price": "₹1,699",
-        "old-price": "₹3,490",
+        "new_price": "₹1,699",
+        "old_price": "₹3,490",
         "discount": "51% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/zebronics-zeb-warrior-original-imafmyptqxt2dubt.jpeg",
@@ -144,10 +144,10 @@
         "color": "Black, Black, 2.0 Channel",
         "stars": "4.2",
         "reviews": "(13,152)",
-        "new-price": "₹629",
-        "old-price": "₹999",
+        "new_price": "₹629",
+        "old_price": "₹999",
         "discount": "37% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-350-boat-original-imafyebfuaumdezs.jpeg",
@@ -155,19 +155,19 @@
         "color": "Black, Mono Channel",
         "stars": "4.3",
         "reviews": "(55,508)",
-        "new-price": "₹1,699",
-        "old-price": "₹3,490",
+        "new_price": "₹1,699",
+        "old_price": "₹3,490",
         "discount": "51% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/mb42x-micca-original-imagcwfhgdxfsysa.jpeg",
         "description": "Micca Mb42X 150 W Home Audio Speaker",
         "color": "Black, 2.0 Channel",
-        "new-price": "₹8,991",
-        "old-price": "₹16,990",
+        "new_price": "₹8,991",
+        "old_price": "₹16,990",
         "discount": "47% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-grenade-stone-grenade-rtl-boat-original-imag8yxagkku8mbz.jpeg",
@@ -175,10 +175,10 @@
         "color": "Charcoal Black, Mono Channel",
         "stars": "4.2",
         "reviews": "(1,71,501)",
-        "new-price": "₹1,219",
-        "old-price": "₹3,990",
+        "new_price": "₹1,219",
+        "old_price": "₹3,990",
         "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/nest-mini-ga00781-in-google-original-imafmauqguud8wsz.jpeg",
@@ -186,10 +186,10 @@
         "color": "Charcoal",
         "stars": "4.3",
         "reviews": "(38,042)",
-        "new-price": "₹2,499",
-        "old-price": "₹4,499",
+        "new_price": "₹2,499",
+        "old_price": "₹4,499",
         "discount": "44% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/bs5pl-tq-mivi-original-imag3sgmtbcup4ge.jpeg",
@@ -197,10 +197,10 @@
         "color": "Turquoise, Mono Channel",
         "stars": "4.2",
         "reviews": "(55,639)",
-        "new-price": "₹899",
-        "old-price": "₹1,999",
+        "new_price": "₹899",
+        "old_price": "₹1,999",
         "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/i-kall-k22-original-imafza6myf8th2tu.jpeg",
@@ -208,10 +208,10 @@
         "color": "Black, 2.1 Channel",
         "stars": "3.8",
         "reviews": "(2,680)",
-        "new-price": "₹1,399",
-        "old-price": "₹2,499",
+        "new_price": "₹1,399",
+        "old_price": "₹2,499",
         "discount": "44% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/xmyx03wm-mi-original-imafwyqth8hjet72.jpeg",
@@ -219,10 +219,10 @@
         "color": "Black, Mono Channel",
         "stars": "4.2",
         "reviews": "(6,952)",
-        "new-price": "₹1,180",
-        "old-price": "₹1,999",
+        "new_price": "₹1,180",
+        "old_price": "₹1,999",
         "discount": "40% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/ptron-fusion-10w-bluetooth-speaker-original-imafmtza6jzzsvgn.jpeg",
@@ -230,10 +230,10 @@
         "color": "Black/Gold, Stereo Channel",
         "stars": "4.3",
         "reviews": "(12,547)",
-        "new-price": "₹1,099",
-        "old-price": "₹3,000",
+        "new_price": "₹1,099",
+        "old_price": "₹3,000",
         "discount": "63% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/c-f-203g-b-f-d-original-imaf97wtkdh5afqy.jpeg",
@@ -241,10 +241,10 @@
         "color": "Black, 2.1 Channel",
         "stars": "4.2",
         "reviews": "(59,165)",
-        "new-price": "₹1,399",
-        "old-price": "₹2,990",
+        "new_price": "₹1,399",
+        "old_price": "₹2,990",
         "discount": "53% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/portable-wireless-speaker-with-4-to-5-hours-playtime-usb-aux-original-imagbgazdbwcpqgs.jpeg",
@@ -252,10 +252,10 @@
         "color": "Black, Mono Channel",
         "stars": "4.1",
         "reviews": "(13)",
-        "new-price": "₹599",
-        "old-price": "₹1,999",
+        "new_price": "₹599",
+        "old_price": "₹1,999",
         "discount": "70% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/m3-portable-bluetooth-mini-speaker-dynamic-metal-sound-with-high-original-imagbf7gfdbejzvx.jpeg",
@@ -263,10 +263,10 @@
         "color": "Multicolor, Stereo Channel",
         "stars": "4.1",
         "reviews": "(27)",
-        "new-price": "₹459",
-        "old-price": "₹1,199",
+        "new_price": "₹459",
+        "old_price": "₹1,199",
         "discount": "61% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-190-stone-190f-boat-original-imaftap4nxvrftsf.jpeg",
@@ -274,10 +274,10 @@
         "color": "Blue, Stereo Channel",
         "stars": "4.4",
         "reviews": "(1,31,986)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,999",
+        "new_price": "₹1,299",
+        "old_price": "₹2,999",
         "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/nano-plus-et-1414-bluetooth-etmax-original-imafzqcfkyx2ppps.jpeg",
@@ -285,10 +285,10 @@
         "color": "Black, Stereo Channel",
         "stars": "3.8",
         "reviews": "(4,746)",
-        "new-price": "₹948",
-        "old-price": "₹2,099",
+        "new_price": "₹948",
+        "old_price": "₹2,099",
         "discount": "54% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/-original-imagcjut9smhecds.jpeg",
@@ -296,10 +296,10 @@
         "color": "Platinum Black, Stereo Channel",
         "stars": "4.5",
         "reviews": "(24)",
-        "new-price": "₹3,499",
-        "old-price": "₹7,999",
+        "new_price": "₹3,499",
+        "old_price": "₹7,999",
         "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/100-best-quality-with-super-bass-3d-sound-wireless-bluetooth-original-imag8rfhj3hravyh.jpeg",
@@ -307,10 +307,10 @@
         "color": "Blue, Stereo Channel",
         "stars": "4",
         "reviews": "(11,017)",
-        "new-price": "₹395",
-        "old-price": "₹1,000",
+        "new_price": "₹395",
+        "old_price": "₹1,000",
         "discount": "60% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/bs5pl-wt-mivi-original-imag3sgmhbkzzhje.jpeg",
@@ -318,10 +318,10 @@
         "color": "White, Mono Channel",
         "stars": "4.2",
         "reviews": "(55,639)",
-        "new-price": "₹899",
-        "old-price": "₹1,999",
+        "new_price": "₹899",
+        "old_price": "₹1,999",
         "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/bs5pl-gn-mivi-original-imag3sgm6cx4zxtd.jpeg",
@@ -329,10 +329,10 @@
         "color": "Green, Mono Channel",
         "stars": "4.2",
         "reviews": "(55,639)",
-        "new-price": "₹899",
-        "old-price": "₹1,999",
+        "new_price": "₹899",
+        "old_price": "₹1,999",
         "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/kingdom-series-8w-wireless-speaker-with-10-hours-battery-backup-original-imagc4jrue2m2wkq.jpeg",
@@ -340,10 +340,10 @@
         "color": "Red, Stereo Channel",
         "stars": "3.8",
         "reviews": "(947)",
-        "new-price": "₹449",
-        "old-price": "₹1,699",
+        "new_price": "₹449",
+        "old_price": "₹1,699",
         "discount": "73% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/2020-hot-sale-portable-mini-small-metal-music-loudspeaker-music-original-imag2c8y8mgeqrkd.jpeg",
@@ -351,10 +351,10 @@
         "color": "Blue, Stereo Channel",
         "stars": "3.8",
         "reviews": "(5,231)",
-        "new-price": "₹261",
-        "old-price": "₹800",
+        "new_price": "₹261",
+        "old_price": "₹800",
         "discount": "67% off",
-        "delivery-type": "Bank Offer"
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img2/-original-imag8z6hzzrahgmz.jpeg",
@@ -362,10 +362,10 @@
         "color": "Black, Mono Channel",
         "stars": "4.2",
         "reviews": "(697)",
-        "new-price": "₹1,499",
-        "old-price": "₹4,999",
+        "new_price": "₹1,499",
+        "old_price": "₹4,999",
         "discount": "70% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/infinity-fuze-99-original-imafnnemcgfr9q6h.jpeg",
@@ -373,10 +373,10 @@
         "color": "Black, Mono Channel",
         "stars": "4",
         "reviews": "(30,448)",
-        "new-price": "₹1,499",
-        "old-price": "₹2,999",
+        "new_price": "₹1,499",
+        "old_price": "₹2,999",
         "discount": "50% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/-original-imagcjutd25zfqms.jpeg",
@@ -384,10 +384,10 @@
         "color": "Platinum Black, Stereo Channel",
         "stars": "5",
         "reviews": "(16)",
-        "new-price": "₹1,699",
-        "old-price": "₹4,499",
+        "new_price": "₹1,699",
+        "old_price": "₹4,499",
         "discount": "62% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/sony-sa-d40-original-imaffmj7yuzjzyhg.jpeg",
@@ -395,10 +395,10 @@
         "color": "Black, 4.1 Channel",
         "stars": "4.4",
         "reviews": "(31,484)",
-        "new-price": "₹9,490",
-        "old-price": "₹9,990",
+        "new_price": "₹9,490",
+        "old_price": "₹9,990",
         "discount": "5% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/100-best-quality-3d-sound-splashproof-water-resistant-deep-baas-original-imafx6zf2mzmyjdz.jpeg",
@@ -406,10 +406,10 @@
         "color": "Black, Stereo Channel",
         "stars": "3.9",
         "reviews": "(6,168)",
-        "new-price": "₹393",
-        "old-price": "₹1,000",
+        "new_price": "₹393",
+        "old_price": "₹1,000",
         "discount": "60% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/boat-stone-650-original-imafdcpwsmepjgrk.jpeg",
@@ -417,10 +417,10 @@
         "color": "Rampant Red, Stereo Channel",
         "stars": "4.3",
         "reviews": "(35,734)",
-        "new-price": "₹1,816",
-        "old-price": "₹4,990",
+        "new_price": "₹1,816",
+        "old_price": "₹4,990",
         "discount": "63% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/311-premium-shockproof-bluetooth-speaker-red-atarc-original-imag4a9wzfafpypf.jpeg",
@@ -428,10 +428,10 @@
         "color": "Red, Stereo Channel",
         "stars": "3.9",
         "reviews": "(2,394)",
-        "new-price": "₹461",
-        "old-price": "₹1,499",
+        "new_price": "₹461",
+        "old_price": "₹1,499",
         "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/2b-terabyte-original-imagyv4ymzjshd5t.jpeg",
@@ -439,10 +439,10 @@
         "color": "Black, 2.0 Channel",
         "stars": "3.8",
         "reviews": "(3,082)",
-        "new-price": "₹318",
-        "old-price": "₹499",
+        "new_price": "₹318",
+        "old_price": "₹499",
         "discount": "36% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/best-buy-ultra-dj-sound-blast-with-super-deep-bass-wireless-original-imafr4j5hyxurnfg.jpeg",
@@ -450,19 +450,19 @@
         "color": "Blue, Stereo Channel",
         "stars": "3.9",
         "reviews": "(57,896)",
-        "new-price": "₹439",
-        "old-price": "₹1,500",
+        "new_price": "₹439",
+        "old_price": "₹1,500",
         "discount": "70% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/philips-bluetooth-portable-speaker-with-supporting-usb-sd-card-original-imagdrpufzrxfe84.jpeg",
         "description": "Chaebol PHILIPS Bluetooth Portable Speaker With Support...",
         "color": "Red, 4.2 Channel",
-        "new-price": "₹449",
-        "old-price": "₹1,999",
+        "new_price": "₹449",
+        "old_price": "₹1,999",
         "discount": "77% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/flip-3d-blast-sound-10-w-ipx7-waterproof-bluetooth-speaker-with-original-imafufj6z7ngcemm.jpeg",
@@ -470,10 +470,10 @@
         "color": "Black, 5.1 Channel",
         "stars": "3.8",
         "reviews": "(852)",
-        "new-price": "₹369",
-        "old-price": "₹1,499",
+        "new_price": "₹369",
+        "old_price": "₹1,499",
         "discount": "75% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/bs5pl-or-mivi-original-imag3sgm4fh77d6a.jpeg",
@@ -481,10 +481,10 @@
         "color": "Orange, Mono Channel",
         "stars": "4.2",
         "reviews": "(55,639)",
-        "new-price": "₹899",
-        "old-price": "₹1,999",
+        "new_price": "₹899",
+        "old_price": "₹1,999",
         "discount": "55% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/warrior-ii-2-0-channel-usb-speaker-led-lights-with-usb-powered-original-imagfg3h9azuzsxt.jpeg",
@@ -492,10 +492,10 @@
         "color": "Black, 2.0 Channel",
         "stars": "4.1",
         "reviews": "(4,299)",
-        "new-price": "₹679",
-        "old-price": "₹1,399",
+        "new_price": "₹679",
+        "old_price": "₹1,399",
         "discount": "51% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-350-boat-original-imafyebgtg74sghe.jpeg",
@@ -503,10 +503,10 @@
         "color": "Red, Mono Channel",
         "stars": "4.3",
         "reviews": "(55,508)",
-        "new-price": "₹1,699",
-        "old-price": "₹3,490",
+        "new_price": "₹1,699",
+        "old_price": "₹3,490",
         "discount": "51% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/mb42x-c-center-channelrwith-dual-4-inch-carbon-fiber-woofer-and-original-imag3gz82zndxf4z.jpeg",
@@ -514,10 +514,10 @@
         "color": "Black, Stereo Channel",
         "stars": "4.6",
         "reviews": "(20)",
-        "new-price": "₹5,931",
-        "old-price": "₹8,990",
+        "new_price": "₹5,931",
+        "old_price": "₹8,990",
         "discount": "34% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/zeb-vita-plus-zebronics-original-imafzrpeuebfxzuz.jpeg",
@@ -525,10 +525,10 @@
         "color": "Black, Stereo Channel",
         "stars": "4.1",
         "reviews": "(61,900)",
-        "new-price": "₹1,499",
-        "old-price": "₹2,499",
+        "new_price": "₹1,499",
+        "old_price": "₹2,499",
         "discount": "40% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-190-stone-190f-boat-original-imaft7gyph2ghgk2.jpeg",
@@ -536,10 +536,10 @@
         "color": "Red, Stereo Channel",
         "stars": "4.4",
         "reviews": "(1,31,986)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,999",
+        "new_price": "₹1,299",
+        "old_price": "₹2,999",
         "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-1200f-boat-original-imag72dhvchsxmrz.jpeg",
@@ -547,10 +547,10 @@
         "color": "Black Raptor, Stereo Channel",
         "stars": "4.3",
         "reviews": "(4,154)",
-        "new-price": "₹3,999",
-        "old-price": "₹6,990",
+        "new_price": "₹3,999",
+        "old_price": "₹6,990",
         "discount": "42% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/ik-222-i-kall-original-imagf456z7afaaew.jpeg",
@@ -558,10 +558,10 @@
         "color": "Black, 5.1 Channel",
         "stars": "3.5",
         "reviews": "(161)",
-        "new-price": "₹2,199",
-        "old-price": "₹3,999",
+        "new_price": "₹2,199",
+        "old_price": "₹3,999",
         "discount": "45% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/best-quality-super-bass-3d-sound-wireless-rechargeable-speaker-original-imagfy2fbjqkkdqh.jpeg",
@@ -569,10 +569,10 @@
         "color": "Green, Stereo Channel",
         "stars": "4",
         "reviews": "(11,017)",
-        "new-price": "₹395",
-        "old-price": "₹1,000",
+        "new_price": "₹395",
+        "old_price": "₹1,000",
         "discount": "60% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/boat-stone-650-original-imafdcqyeygc5ycz.jpeg",
@@ -580,10 +580,10 @@
         "color": "Navy Blue, Stereo Channel",
         "stars": "4.3",
         "reviews": "(35,734)",
-        "new-price": "₹1,999",
-        "old-price": "₹4,990",
+        "new_price": "₹1,999",
+        "old_price": "₹4,990",
         "discount": "59% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/portable-wireless-outdoor-speaker-with-powerful-ultra-bass-original-imag79e5qkf4jj2c.jpeg",
@@ -591,10 +591,10 @@
         "color": "Black, Stereo Channel",
         "stars": "4",
         "reviews": "(668)",
-        "new-price": "₹678",
-        "old-price": "₹2,199",
+        "new_price": "₹678",
+        "old_price": "₹2,199",
         "discount": "69% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/aladeen-series-sp-8070-ubon-original-imag8d9az7ghzjtd.jpeg",
@@ -602,10 +602,10 @@
         "color": "Black, Stereo Channel",
         "stars": "4.1",
         "reviews": "(58)",
-        "new-price": "₹1,449",
-        "old-price": "₹2,999",
+        "new_price": "₹1,449",
+        "old_price": "₹2,999",
         "discount": "51% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/high-quality-wireless-bluetooth-super-bass-portable-party-original-imafzbzpyfn2pyqa.jpeg",
@@ -613,10 +613,10 @@
         "color": "Black, Stereo Channel",
         "stars": "3.7",
         "reviews": "(7,226)",
-        "new-price": "₹1,499",
-        "old-price": "₹5,999",
+        "new_price": "₹1,499",
+        "old_price": "₹5,999",
         "discount": "75% off",
-        "delivery-type": "Bank Offer"
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img2/jbl-flip-essential-original-imafnpuhahqwvwhw.jpeg",
@@ -624,10 +624,10 @@
         "color": "Grey, Stereo Channel",
         "stars": "4.4",
         "reviews": "(12,754)",
-        "new-price": "₹5,999",
-        "old-price": "₹8,999",
+        "new_price": "₹5,999",
+        "old_price": "₹8,999",
         "discount": "33% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/wireless-speakers-3d-sound-with-extra-bass-and-tf-card-fm-usb-original-imag8w38afur6shc.jpeg",
@@ -635,10 +635,10 @@
         "color": "Multicolor, Stereo Channel",
         "stars": "4.1",
         "reviews": "(310)",
-        "new-price": "₹421",
-        "old-price": "₹1,999",
+        "new_price": "₹421",
+        "old_price": "₹1,999",
         "discount": "78% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/-original-imagcjutzqppevyu.jpeg",
@@ -646,10 +646,10 @@
         "color": "Platinum Black, Stereo Channel",
         "stars": "4.9",
         "reviews": "(14)",
-        "new-price": "₹1,699",
-        "old-price": "₹3,999",
+        "new_price": "₹1,699",
+        "old_price": "₹3,999",
         "discount": "57% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/-original-imagdhhg2f7zjbt7.jpeg",
@@ -657,10 +657,10 @@
         "color": "Black, Mono Channel",
         "stars": "4.4",
         "reviews": "(34)",
-        "new-price": "₹1,799",
-        "old-price": "₹2,999",
+        "new_price": "₹1,799",
+        "old_price": "₹2,999",
         "discount": "40% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-cuboid-boat-original-imag6r87e3w5fu6u.jpeg",
@@ -668,10 +668,10 @@
         "color": "Black, Red, Mono Channel",
         "stars": "4",
         "reviews": "(2,258)",
-        "new-price": "₹1,199",
-        "old-price": "₹2,490",
+        "new_price": "₹1,199",
+        "old_price": "₹2,490",
         "discount": "51% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/gizmore-twin-2010-original-imafpzunzhrgzyhd.jpeg",
@@ -679,19 +679,19 @@
         "color": "Black, 2.0 Channel",
         "stars": "4",
         "reviews": "(4,132)",
-        "new-price": "₹549",
-        "old-price": "₹1,099",
+        "new_price": "₹549",
+        "old_price": "₹1,099",
         "discount": "50% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/tp-18n9-bt-toplus-original-imageg7g8hm8x5gr.jpeg",
         "description": "TOPLUS TP-18N9 BT 60 W Bluetooth Home Theatre",
         "color": "Black, 4.1 Channel",
-        "new-price": "₹1,899",
-        "old-price": "₹4,000",
+        "new_price": "₹1,899",
+        "old_price": "₹4,000",
         "discount": "52% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/f-d-f-d-a140x-original-imaffdv7ggehtbme.jpeg",
@@ -699,10 +699,10 @@
         "color": "Black, 2.1 Channel",
         "stars": "4.2",
         "reviews": "(9,228)",
-        "new-price": "₹2,990",
-        "old-price": "₹4,990",
+        "new_price": "₹2,990",
+        "old_price": "₹4,990",
         "discount": "40% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/stone-190-stone-190f-boat-original-imaft7fzg7pbzjzv.jpeg",
@@ -710,10 +710,10 @@
         "color": "Black, Stereo Channel",
         "stars": "4.4",
         "reviews": "(1,31,986)",
-        "new-price": "₹1,299",
-        "old-price": "₹2,999",
+        "new_price": "₹1,299",
+        "old_price": "₹2,999",
         "discount": "56% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/a-aavante-bar-1550-boat-original-imafk9gd9vmcgzxr.jpeg",
@@ -721,19 +721,19 @@
         "color": "Premium Black, 2.1 Channel",
         "stars": "4.4",
         "reviews": "(1,53,034)",
-        "new-price": "₹9,999",
-        "old-price": "₹24,990",
+        "new_price": "₹9,999",
+        "old_price": "₹24,990",
         "discount": "59% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/ae-160d-fm-pendrive-sd-card-mobile-aux-support-remote-toplus-original-imagegfaasctqmdu.jpeg",
         "description": "TOPLUS AE-160D 60 W Bluetooth Home Theatre",
         "color": "Black, 4.1 Channel",
-        "new-price": "₹1,799",
-        "old-price": "₹3,000",
+        "new_price": "₹1,799",
+        "old_price": "₹3,000",
         "discount": "40% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/srs-xb13-lc-in-sony-original-imag47wzs6yszfnu.jpeg",
@@ -741,10 +741,10 @@
         "color": "Blue, Mono Channel",
         "stars": "4",
         "reviews": "(1,867)",
-        "new-price": "₹3,490",
-        "old-price": "₹4,990",
+        "new_price": "₹3,490",
+        "old_price": "₹4,990",
         "discount": "30% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/tg-113-high-quality-speaker-raw-runner-original-imafth2yvnhk7syy.jpeg",
@@ -752,10 +752,10 @@
         "color": "Black, 5 Way Speaker Channel",
         "stars": "3.7",
         "reviews": "(138)",
-        "new-price": "₹428",
-        "old-price": "₹999",
+        "new_price": "₹428",
+        "old_price": "₹999",
         "discount": "57% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/zebronics-zeb-bt6590rucf-original-imafj9nhz8k9mmvv.jpeg",
@@ -763,19 +763,19 @@
         "color": "Black, 5.1 Channel",
         "stars": "3.9",
         "reviews": "(8,433)",
-        "new-price": "₹3,499",
-        "old-price": "₹4,999",
+        "new_price": "₹3,499",
+        "old_price": "₹4,999",
         "discount": "30% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/ts-2818-bt-toplus-original-imagegy4fngqbgru.jpeg",
         "description": "TOPLUS TS-2818 BT 60 W Bluetooth Home Theatre",
         "color": "Black, 4.1 Channel",
-        "new-price": "₹1,899",
-        "old-price": "₹3,500",
+        "new_price": "₹1,899",
+        "old_price": "₹3,500",
         "discount": "45% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/ik-666-bluetooth-i-kall-original-imagfytz3agszwxd.jpeg",
@@ -783,10 +783,10 @@
         "color": "Black, 5.1 Channel",
         "stars": "3.7",
         "reviews": "(6,183)",
-        "new-price": "₹2,149",
-        "old-price": "₹2,999",
+        "new_price": "₹2,149",
+        "old_price": "₹2,999",
         "discount": "28% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/best-popularity-high-bass-bluetooth-speaker-f-ferons-original-imag4hyj88zznqpn.jpeg",
@@ -794,10 +794,10 @@
         "color": "MILITARY, Stereo Channel",
         "stars": "3.9",
         "reviews": "(57,896)",
-        "new-price": "₹445",
-        "old-price": "₹1,200",
+        "new_price": "₹445",
+        "old_price": "₹1,200",
         "discount": "62% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/aavante-bar-1550-aavante-bar-1500-boat-original-imafwcpenhbfpgyy.jpeg",
@@ -805,19 +805,19 @@
         "color": "Premium Black, 2.1 Channel",
         "stars": "4.4",
         "reviews": "(1,53,034)",
-        "new-price": "₹7,999",
-        "old-price": "₹16,990",
+        "new_price": "₹7,999",
+        "old_price": "₹16,990",
         "discount": "52% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/avenger-toplus-original-imagefymt65jmgag.jpeg",
         "description": "TOPLUS Avenger Nxt Tower Speaker 80 W Bluetooth Soundba...",
         "color": "Black, Stereo Channel",
-        "new-price": "₹2,499",
-        "old-price": "₹6,000",
+        "new_price": "₹2,499",
+        "old_price": "₹6,000",
         "discount": "58% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/buy-now-at-drop-down-price-best-super-bass-3d-sound-wireless-original-imag64cynjzh8u5f.jpeg",
@@ -825,10 +825,10 @@
         "color": "Red, 4.1 Channel",
         "stars": "4",
         "reviews": "(11,017)",
-        "new-price": "₹379",
-        "old-price": "₹900",
+        "new_price": "₹379",
+        "old_price": "₹900",
         "discount": "57% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/-original-imagch7jzhc2yefp.jpeg",
@@ -836,10 +836,10 @@
         "color": "Black, 2.2 Channel",
         "stars": "4.5",
         "reviews": "(2,056)",
-        "new-price": "₹3,499",
-        "old-price": "₹6,999",
+        "new_price": "₹3,499",
+        "old_price": "₹6,999",
         "discount": "50% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     },
     {
         "image": "res/img2/best-buy-multimedia-speaker-with-fm-radio-memory-card-slot-usb-original-imag42sder24gahd.jpeg",
@@ -847,10 +847,10 @@
         "color": "Red, Stereo Channel",
         "stars": "3.8",
         "reviews": "(5,231)",
-        "new-price": "₹261",
-        "old-price": "₹800",
+        "new_price": "₹261",
+        "old_price": "₹800",
         "discount": "67% off",
-        "delivery-type": "Bank Offer"
+        "delivery_type": "Bank Offer"
     },
     {
         "image": "res/img2/mind-series-bluetooth-speaker-with-6-hours-battery-backup-uibs-original-imagypgndtjdfpbx.jpeg",
@@ -858,9 +858,9 @@
         "color": "Grey, Stereo Channel",
         "stars": "3.5",
         "reviews": "(210)",
-        "new-price": "₹579",
-        "old-price": "₹1,499",
+        "new_price": "₹579",
+        "old_price": "₹1,499",
         "discount": "61% off",
-        "delivery-type": "Free delivery"
+        "delivery_type": "Free delivery"
     }
 ]

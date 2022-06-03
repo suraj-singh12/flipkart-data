@@ -5,10 +5,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.8",
         "reviews": "(1,097)",
-        "new-price": "₹8,499",
-        "old-price": "₹9,625",
+        "new_price": "₹8,499",
+        "old_price": "₹9,625",
         "discount": "11% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -17,10 +17,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.8",
         "reviews": "(1,097)",
-        "new-price": "₹8,799",
-        "old-price": "₹9,625",
+        "new_price": "₹8,799",
+        "old_price": "₹9,625",
         "discount": "8% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -29,10 +29,10 @@
         "color": "Black, Ink Tank, 2 Ink Bottles Included",
         "stars": "4.3",
         "reviews": "(2,422)",
-        "new-price": "₹12,499",
-        "old-price": "₹14,595",
+        "new_price": "₹12,499",
+        "old_price": "₹14,595",
         "discount": "14% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -41,10 +41,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.6",
         "reviews": "(3,097)",
-        "new-price": "₹2,459",
-        "old-price": "₹2,525",
+        "new_price": "₹2,459",
+        "old_price": "₹2,525",
         "discount": "2% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -53,10 +53,10 @@
         "color": "White, Grey, Ink Cartridge",
         "stars": "3.7",
         "reviews": "(43,665)",
-        "new-price": "₹3,599",
-        "old-price": "₹3,825",
+        "new_price": "₹3,599",
+        "old_price": "₹3,825",
         "discount": "5% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -65,10 +65,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.7",
         "reviews": "(43,665)",
-        "new-price": "₹3,599",
-        "old-price": "₹3,650",
+        "new_price": "₹3,599",
+        "old_price": "₹3,650",
         "discount": "1% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -77,10 +77,10 @@
         "color": "Black, Ink Bottle",
         "stars": "4.3",
         "reviews": "(2,704)",
-        "new-price": "₹12,999",
-        "old-price": "₹13,999",
+        "new_price": "₹12,999",
+        "old_price": "₹13,999",
         "discount": "7% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -89,10 +89,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.1",
         "reviews": "(120)",
-        "new-price": "₹16,599",
-        "old-price": "₹18,789",
+        "new_price": "₹16,599",
+        "old_price": "₹18,789",
         "discount": "11% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -101,10 +101,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.9",
         "reviews": "(1,313)",
-        "new-price": "₹5,499",
-        "old-price": "₹6,885",
+        "new_price": "₹5,499",
+        "old_price": "₹6,885",
         "discount": "20% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -113,10 +113,10 @@
         "color": "Multicolor, Ink Tank",
         "stars": "4.1",
         "reviews": "(846)",
-        "new-price": "₹13,499",
-        "old-price": "₹16,758",
+        "new_price": "₹13,499",
+        "old_price": "₹16,758",
         "discount": "19% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -125,10 +125,10 @@
         "color": "White, Purple, Ink Cartridge",
         "stars": "3.8",
         "reviews": "(8,892)",
-        "new-price": "₹4,099",
-        "old-price": "₹4,323",
+        "new_price": "₹4,099",
+        "old_price": "₹4,323",
         "discount": "5% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -137,10 +137,10 @@
         "color": "White, Grey, Ink Cartridge",
         "stars": "3.8",
         "reviews": "(2,577)",
-        "new-price": "₹4,299",
-        "old-price": "₹4,971",
+        "new_price": "₹4,299",
+        "old_price": "₹4,971",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -149,10 +149,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.3",
         "reviews": "(861)",
-        "new-price": "₹14,599",
-        "old-price": "₹15,690",
+        "new_price": "₹14,599",
+        "old_price": "₹15,690",
         "discount": "6% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -161,10 +161,10 @@
         "color": "Black, Ink Bottle",
         "stars": "4.3",
         "reviews": "(542)",
-        "new-price": "₹15,799",
-        "old-price": "₹17,999",
+        "new_price": "₹15,799",
+        "old_price": "₹17,999",
         "discount": "12% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -173,10 +173,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.6",
         "reviews": "(788)",
-        "new-price": "₹4,999",
-        "old-price": "₹5,825",
+        "new_price": "₹4,999",
+        "old_price": "₹5,825",
         "discount": "14% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -185,10 +185,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.1",
         "reviews": "(692)",
-        "new-price": "₹11,699",
-        "old-price": "₹12,690",
+        "new_price": "₹11,699",
+        "old_price": "₹12,690",
         "discount": "7% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -197,8 +197,8 @@
         "color": "Black, Ink Tank",
         "stars": "4.2",
         "reviews": "(4,003)",
-        "new-price": "₹9,699",
-        "delivery-type": "Free delivery",
+        "new_price": "₹9,699",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -207,10 +207,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.2",
         "reviews": "(800)",
-        "new-price": "₹11,499",
-        "old-price": "₹13,974",
+        "new_price": "₹11,499",
+        "old_price": "₹13,974",
         "discount": "17% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -219,10 +219,10 @@
         "color": "White, Blue, Toner Cartridge",
         "stars": "3.9",
         "reviews": "(72)",
-        "new-price": "₹8,199",
-        "old-price": "₹11,111",
+        "new_price": "₹8,199",
+        "old_price": "₹11,111",
         "discount": "26% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -231,10 +231,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.2",
         "reviews": "(350)",
-        "new-price": "₹17,599",
-        "old-price": "₹21,700",
+        "new_price": "₹17,599",
+        "old_price": "₹21,700",
         "discount": "18% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -243,10 +243,10 @@
         "color": "White, Grey, Toner Cartridge",
         "stars": "4.1",
         "reviews": "(2,166)",
-        "new-price": "₹19,490",
-        "old-price": "₹23,461",
+        "new_price": "₹19,490",
+        "old_price": "₹23,461",
         "discount": "16% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -255,10 +255,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.9",
         "reviews": "(2,988)",
-        "new-price": "₹6,999",
-        "old-price": "₹7,693",
+        "new_price": "₹6,999",
+        "old_price": "₹7,693",
         "discount": "9% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -267,9 +267,9 @@
         "color": "Black, Ink Tank",
         "stars": "4.2",
         "reviews": "(192)",
-        "new-price": "₹16,199",
-        "old-price": "₹16,245",
-        "delivery-type": "Free delivery",
+        "new_price": "₹16,199",
+        "old_price": "₹16,245",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -278,9 +278,9 @@
         "color": "Black, Ink Tank",
         "stars": "4.2",
         "reviews": "(221)",
-        "new-price": "₹13,499",
-        "old-price": "₹13,545",
-        "delivery-type": "Free delivery",
+        "new_price": "₹13,499",
+        "old_price": "₹13,545",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -289,10 +289,10 @@
         "color": "White, Ink Cartridge",
         "stars": "4.1",
         "reviews": "(454)",
-        "new-price": "₹9,799",
-        "old-price": "₹10,201",
+        "new_price": "₹9,799",
+        "old_price": "₹10,201",
         "discount": "3% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -301,10 +301,10 @@
         "color": "Black, Red, Ink Tank",
         "stars": "4.1",
         "reviews": "(1,018)",
-        "new-price": "₹11,599",
-        "old-price": "₹13,199",
+        "new_price": "₹11,599",
+        "old_price": "₹13,199",
         "discount": "12% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -313,10 +313,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.3",
         "reviews": "(217)",
-        "new-price": "₹18,799",
-        "old-price": "₹19,590",
+        "new_price": "₹18,799",
+        "old_price": "₹19,590",
         "discount": "4% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -325,10 +325,10 @@
         "color": "White, Grey, Toner Cartridge",
         "stars": "4.1",
         "reviews": "(156)",
-        "new-price": "₹17,499",
-        "old-price": "₹21,512",
+        "new_price": "₹17,499",
+        "old_price": "₹21,512",
         "discount": "18% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -337,9 +337,9 @@
         "color": "White, Ink Cartridge",
         "stars": "3.9",
         "reviews": "(1,383)",
-        "new-price": "₹6,549",
-        "old-price": "₹6,555",
-        "delivery-type": "Free delivery",
+        "new_price": "₹6,549",
+        "old_price": "₹6,555",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -348,10 +348,10 @@
         "color": "White, Toner Cartridge",
         "stars": "4.2",
         "reviews": "(449)",
-        "new-price": "₹10,899",
-        "old-price": "₹12,883",
+        "new_price": "₹10,899",
+        "old_price": "₹12,883",
         "discount": "15% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -360,10 +360,10 @@
         "color": "Grey, White, Ink Bottle",
         "stars": "4.2",
         "reviews": "(102)",
-        "new-price": "₹25,999",
-        "old-price": "₹27,879",
+        "new_price": "₹25,999",
+        "old_price": "₹27,879",
         "discount": "6% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -372,10 +372,10 @@
         "color": "White, Blue, Ink Cartridge",
         "stars": "3.9",
         "reviews": "(1,503)",
-        "new-price": "₹7,299",
-        "old-price": "₹8,450",
+        "new_price": "₹7,299",
+        "old_price": "₹8,450",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -384,10 +384,10 @@
         "color": "Black, Ink Tank, 2 Ink Bottles Included",
         "stars": "4.4",
         "reviews": "(7,636)",
-        "new-price": "₹14,999",
-        "old-price": "₹17,370",
+        "new_price": "₹14,999",
+        "old_price": "₹17,370",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -396,10 +396,10 @@
         "color": "Multicolor, Ink Tank",
         "stars": "4.2",
         "reviews": "(1,552)",
-        "new-price": "₹12,459",
-        "old-price": "₹14,371",
+        "new_price": "₹12,459",
+        "old_price": "₹14,371",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -408,10 +408,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.6",
         "reviews": "(1,273)",
-        "new-price": "₹3,099",
-        "old-price": "₹3,445",
+        "new_price": "₹3,099",
+        "old_price": "₹3,445",
         "discount": "10% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -420,20 +420,20 @@
         "color": "Black, Ink Bottle",
         "stars": "4.2",
         "reviews": "(1,112)",
-        "new-price": "₹15,449",
-        "old-price": "₹19,899",
+        "new_price": "₹15,449",
+        "old_price": "₹19,899",
         "discount": "22% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "Epson M2120 Multi-function WiFi Monochrome Printer",
         "image": "res/img2/m2120-epson-original-imagde22aksthrf6.jpeg",
         "color": "White, Ink Bottle",
-        "new-price": "₹16,885",
-        "old-price": "₹19,399",
+        "new_price": "₹16,885",
+        "old_price": "₹19,399",
         "discount": "12% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -442,20 +442,20 @@
         "color": "White, Blue, Ink Cartridge",
         "stars": "3.7",
         "reviews": "(3,010)",
-        "new-price": "₹6,299",
-        "old-price": "₹7,005",
+        "new_price": "₹6,299",
+        "old_price": "₹7,005",
         "discount": "10% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "Epson L6460 Multi-function WiFi Color Printer",
         "image": "res/img2/l6460-epson-original-imagdebtdjgfcuxm.jpeg",
         "color": "White, Ink Bottle",
-        "new-price": "₹26,950",
-        "old-price": "₹28,999",
+        "new_price": "₹26,950",
+        "old_price": "₹28,999",
         "discount": "7% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -464,10 +464,10 @@
         "color": "Black, Toner Cartridge",
         "stars": "4.3",
         "reviews": "(3,486)",
-        "new-price": "₹18,999",
-        "old-price": "₹21,090",
+        "new_price": "₹18,999",
+        "old_price": "₹21,090",
         "discount": "9% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -476,10 +476,10 @@
         "color": "Black, Ink Tank",
         "stars": "4",
         "reviews": "(404)",
-        "new-price": "₹8,999",
-        "old-price": "₹10,454",
+        "new_price": "₹8,999",
+        "old_price": "₹10,454",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -488,10 +488,10 @@
         "color": "Black, Ink Bottle",
         "stars": "4.2",
         "reviews": "(509)",
-        "new-price": "₹20,499",
-        "old-price": "₹22,624",
+        "new_price": "₹20,499",
+        "old_price": "₹22,624",
         "discount": "9% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -500,10 +500,10 @@
         "color": "White, Grey, Toner Cartridge",
         "stars": "4.3",
         "reviews": "(1,194)",
-        "new-price": "₹12,399",
-        "old-price": "₹14,366",
+        "new_price": "₹12,399",
+        "old_price": "₹14,366",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -512,10 +512,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.1",
         "reviews": "(13)",
-        "new-price": "₹17,500",
-        "old-price": "₹18,000",
+        "new_price": "₹17,500",
+        "old_price": "₹18,000",
         "discount": "2% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -524,10 +524,10 @@
         "color": "Black, Ink Bottle",
         "stars": "4.2",
         "reviews": "(28)",
-        "new-price": "₹25,099",
-        "old-price": "₹27,999",
+        "new_price": "₹25,099",
+        "old_price": "₹27,999",
         "discount": "10% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -536,10 +536,10 @@
         "color": "White, Blue, Ink Cartridge",
         "stars": "3.7",
         "reviews": "(1,040)",
-        "new-price": "₹8,699",
-        "old-price": "₹9,905",
+        "new_price": "₹8,699",
+        "old_price": "₹9,905",
         "discount": "12% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -548,10 +548,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.8",
         "reviews": "(1,097)",
-        "new-price": "₹8,799",
-        "old-price": "₹9,625",
+        "new_price": "₹8,799",
+        "old_price": "₹9,625",
         "discount": "8% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -560,10 +560,10 @@
         "color": "White, Grey, Toner Cartridge",
         "stars": "4.1",
         "reviews": "(574)",
-        "new-price": "₹14,499",
-        "old-price": "₹18,334",
+        "new_price": "₹14,499",
+        "old_price": "₹18,334",
         "discount": "20% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -572,10 +572,10 @@
         "color": "White, Red, Ink Cartridge",
         "stars": "3.6",
         "reviews": "(351)",
-        "new-price": "₹6,099",
-        "old-price": "₹7,005",
+        "new_price": "₹6,099",
+        "old_price": "₹7,005",
         "discount": "12% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -584,10 +584,10 @@
         "color": "Black, Toner Cartridge",
         "stars": "3.9",
         "reviews": "(66)",
-        "new-price": "₹21,599",
-        "old-price": "₹27,498",
+        "new_price": "₹21,599",
+        "old_price": "₹27,498",
         "discount": "21% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -596,10 +596,10 @@
         "color": "White, Grey, Toner Cartridge",
         "stars": "4.2",
         "reviews": "(771)",
-        "new-price": "₹16,999",
-        "old-price": "₹20,656",
+        "new_price": "₹16,999",
+        "old_price": "₹20,656",
         "discount": "17% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -608,10 +608,10 @@
         "color": "White, Grey, Toner Cartridge",
         "stars": "4.1",
         "reviews": "(2,166)",
-        "new-price": "₹17,999",
-        "old-price": "₹24,578",
+        "new_price": "₹17,999",
+        "old_price": "₹24,578",
         "discount": "26% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -620,10 +620,10 @@
         "color": "White, Ink Bottle",
         "stars": "4.6",
         "reviews": "(39)",
-        "new-price": "₹17,699",
-        "old-price": "₹19,899",
+        "new_price": "₹17,699",
+        "old_price": "₹19,899",
         "discount": "11% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -632,10 +632,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.2",
         "reviews": "(913)",
-        "new-price": "₹13,699",
-        "old-price": "₹14,190",
+        "new_price": "₹13,699",
+        "old_price": "₹14,190",
         "discount": "3% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -644,10 +644,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.5",
         "reviews": "(1,175)",
-        "new-price": "₹4,799",
-        "old-price": "₹5,550",
+        "new_price": "₹4,799",
+        "old_price": "₹5,550",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -656,19 +656,19 @@
         "color": "White, Grey, Toner Cartridge",
         "stars": "4.1",
         "reviews": "(893)",
-        "new-price": "₹19,899",
-        "old-price": "₹20,053",
-        "delivery-type": "Free delivery",
+        "new_price": "₹19,899",
+        "old_price": "₹20,053",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "Epson M1120 Single Function WiFi Monochrome Printer",
         "image": "res/img2/m1120-epson-original-imagdec32czymqgb.jpeg",
         "color": "White, Ink Bottle",
-        "new-price": "₹12,650",
-        "old-price": "₹13,699",
+        "new_price": "₹12,650",
+        "old_price": "₹13,699",
         "discount": "7% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -677,20 +677,20 @@
         "color": "Black, Ink Bottle",
         "stars": "4.3",
         "reviews": "(1,146)",
-        "new-price": "₹16,999",
-        "old-price": "₹17,999",
+        "new_price": "₹16,999",
+        "old_price": "₹17,999",
         "discount": "5% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "Epson M2110 Multi-function Monochrome Printer",
         "image": "res/img2/m2110-epson-original-imagdebsszztggnf.jpeg",
         "color": "White, Ink Bottle",
-        "new-price": "₹16,885",
-        "old-price": "₹19,399",
+        "new_price": "₹16,885",
+        "old_price": "₹19,399",
         "discount": "12% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -699,10 +699,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.1",
         "reviews": "(1,546)",
-        "new-price": "₹15,950",
-        "old-price": "₹16,200",
+        "new_price": "₹15,950",
+        "old_price": "₹16,200",
         "discount": "1% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -711,10 +711,10 @@
         "color": "Black, Ink Bottle",
         "stars": "4.1",
         "reviews": "(228)",
-        "new-price": "₹14,599",
-        "old-price": "₹16,170",
+        "new_price": "₹14,599",
+        "old_price": "₹16,170",
         "discount": "9% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -723,20 +723,20 @@
         "color": "Grey, Toner Cartridge",
         "stars": "3.9",
         "reviews": "(18)",
-        "new-price": "₹11,799",
-        "old-price": "₹13,990",
+        "new_price": "₹11,799",
+        "old_price": "₹13,990",
         "discount": "15% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "HP LaserJet Tank MFP 1005 Printer Multi-function Monoch...",
         "image": "res/img2/laserjet-tank-mfp-1005-printer-hp-original-imagczxunf7x6sbt.jpeg",
         "color": "White, Toner Cartridge",
-        "new-price": "₹20,521",
-        "old-price": "₹23,633",
+        "new_price": "₹20,521",
+        "old_price": "₹23,633",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -745,8 +745,8 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.9",
         "reviews": "(1,373)",
-        "new-price": "₹5,000",
-        "old-price": "₹5,027",
+        "new_price": "₹5,000",
+        "old_price": "₹5,027",
         "offer": "Bank Offer"
     },
     {
@@ -755,10 +755,10 @@
         "color": "Grey, White, Ink Bottle",
         "stars": "4.2",
         "reviews": "(29)",
-        "new-price": "₹20,999",
-        "old-price": "₹22,439",
+        "new_price": "₹20,999",
+        "old_price": "₹22,439",
         "discount": "6% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -767,10 +767,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "3.8",
         "reviews": "(1,097)",
-        "new-price": "₹8,499",
-        "old-price": "₹9,625",
+        "new_price": "₹8,499",
+        "old_price": "₹9,625",
         "discount": "11% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -779,20 +779,20 @@
         "color": "White, Toner Cartridge",
         "stars": "4.3",
         "reviews": "(19)",
-        "new-price": "₹15,499",
-        "old-price": "₹17,807",
+        "new_price": "₹15,499",
+        "old_price": "₹17,807",
         "discount": "12% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "HP LaserJet Tank MFP 2606dn Printer Multi-function Mono...",
         "image": "res/img2/laserjet-tank-mfp-2606dn-printer-hp-original-imagczxmr6shygty.jpeg",
         "color": "White, Toner Cartridge",
-        "new-price": "₹24,299",
-        "old-price": "₹28,653",
+        "new_price": "₹24,299",
+        "old_price": "₹28,653",
         "discount": "15% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -801,10 +801,10 @@
         "color": "Black, Ink Cartridge",
         "stars": "4",
         "reviews": "(472)",
-        "new-price": "₹3,186",
-        "old-price": "₹5,605",
+        "new_price": "₹3,186",
+        "old_price": "₹5,605",
         "discount": "43% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -813,10 +813,10 @@
         "color": "Black, Toner Cartridge",
         "stars": "4.3",
         "reviews": "(919)",
-        "new-price": "₹15,699",
-        "old-price": "₹16,475",
+        "new_price": "₹15,699",
+        "old_price": "₹16,475",
         "discount": "4% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -825,18 +825,18 @@
         "color": "White, Ink Cartridge",
         "stars": "3.6",
         "reviews": "(2,787)",
-        "new-price": "₹2,699",
-        "old-price": "₹3,112",
+        "new_price": "₹2,699",
+        "old_price": "₹3,112",
         "discount": "13% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
         "description": "PANTUM M6518NW Multi-function Monochrome Laser Printer",
         "image": "res/img2/m6518nw-pantum-original-imagd8na6cnpkhzq.jpeg",
         "color": "Black, Toner Cartridge",
-        "new-price": "₹16,990",
-        "delivery-type": "Free delivery",
+        "new_price": "₹16,990",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -845,10 +845,10 @@
         "color": "White, Purple, Ink Cartridge",
         "stars": "3.9",
         "reviews": "(1,683)",
-        "new-price": "₹5,999",
-        "old-price": "₹6,980",
+        "new_price": "₹5,999",
+        "old_price": "₹6,980",
         "discount": "14% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -857,9 +857,9 @@
         "color": "Black, White, Toner Cartridge",
         "stars": "4.4",
         "reviews": "(1,047)",
-        "new-price": "₹13,399",
-        "old-price": "₹13,402",
-        "delivery-type": "Free delivery",
+        "new_price": "₹13,399",
+        "old_price": "₹13,402",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -868,10 +868,10 @@
         "color": "White, Toner Cartridge",
         "stars": "3.9",
         "reviews": "(8)",
-        "new-price": "₹27,499",
-        "old-price": "₹32,972",
+        "new_price": "₹27,499",
+        "old_price": "₹32,972",
         "discount": "16% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -880,10 +880,10 @@
         "color": "Grey, Toner Cartridge",
         "stars": "4.1",
         "reviews": "(7)",
-        "new-price": "₹14,179",
-        "old-price": "₹15,990",
+        "new_price": "₹14,179",
+        "old_price": "₹15,990",
         "discount": "11% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -892,10 +892,10 @@
         "color": "White, Toner Cartridge",
         "stars": "3.3",
         "reviews": "(12)",
-        "new-price": "₹19,499",
-        "old-price": "₹19,999",
+        "new_price": "₹19,499",
+        "old_price": "₹19,999",
         "discount": "2% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -904,8 +904,8 @@
         "color": "Black, Ink Tank",
         "stars": "4.1",
         "reviews": "(290)",
-        "new-price": "₹14,203",
-        "delivery-type": "Free delivery",
+        "new_price": "₹14,203",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -914,10 +914,10 @@
         "color": "White, Grey, Toner Cartridge",
         "stars": "4.2",
         "reviews": "(771)",
-        "new-price": "₹15,499",
-        "old-price": "₹18,452",
+        "new_price": "₹15,499",
+        "old_price": "₹18,452",
         "discount": "16% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     },
     {
@@ -926,10 +926,10 @@
         "color": "Black, Ink Tank",
         "stars": "4.3",
         "reviews": "(119)",
-        "new-price": "₹15,999",
-        "old-price": "₹16,495",
+        "new_price": "₹15,999",
+        "old_price": "₹16,495",
         "discount": "3% off",
-        "delivery-type": "Free delivery",
+        "delivery_type": "Free delivery",
         "offer": "Bank Offer"
     }
 ]

@@ -20,12 +20,12 @@
         "more-data9": "div",
 
         "start2": "div",
-        "new-price": "span",
-        "old-price": "span",
+        "new_price": "span",
+        "old_price": "span",
         "discount": "span",
         "end2": "div",
 
-        "delivery-type": "div",
+        "delivery_type": "div",
         "offer": "div"
     }
 ]
