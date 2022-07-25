@@ -18,24 +18,27 @@ uploadImgs = (dirPath) => {
             // call api and upload image
             imgbbUploader("f4a18fded7b0472b695f71cbf6854d1f", obj['image'])
                 .then((response) => {
-                    // console.log(response);
+                    console.log(response);
                     // console.log(response.image.url);
 
                     // set new image url
                     obj['image'] = response.image.url;
                 })
                 .catch((error) => console.error(error));
-                break; // remove it
+            break; // remove it
         }
         // update this file with new img urls
-        fs.unlink(dirPath + '/' + file, (err) => {
-            if(err) throw err;
+        fs.unlinkSync(dirPath + '/' + file, (err) => {
+            if (err) throw err;
             console.log(dirPath + '/' + file + ' deleted');
-        });
+        })
+            .then((resp) => console.log('done'));
+
         fs.writeFile(dirPath + '/' + file, JSON.stringify(data), (err) => {
-            if(err) throw err;
+            if (err) throw err;
             console.log('updated ' + dirPath + '/' + file + ' written');
         });
+        break;
     }
 }
 
