@@ -9,7 +9,8 @@ const uploadImgsOf = async (file, dirPath) => {
     for (obj of fileData) {
         await imgbbUploader("f4a18fded7b0472b695f71cbf6854d1f", obj['image'])
             .then((response) => {
-                console.log(response);
+                // console.log(response);
+                console.log(obj['item_id'], response.image.url);
                 obj['image'] = response.image.url;
             })
             .catch((error) => console.error(error));
@@ -21,6 +22,7 @@ const uploadImgsOf = async (file, dirPath) => {
 const uploadImgsOfDir = (dirPath) => {
     let files = fs.readdirSync(dirPath);
 
+    let i = 0;
     // let newData = null;
     for (file of files) {       //  for each file
         if (!file.includes('json')) continue;
@@ -42,9 +44,12 @@ const uploadImgsOfDir = (dirPath) => {
                     console.log('updated ' + dirPath + '/' + file + ' written');
                 });
             })
-        break;
+        i++;
+        if(i == 8) {
+            // this is max images one account can have (near to 32 MB limit)
+            break;
+        }
     }
 }
-
 
 uploadImgsOfDir('./res/json0');
