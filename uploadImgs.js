@@ -55,7 +55,7 @@ doTheUploads = (fileDataIndx, image) => {
                 index++;    // increment file index
 
                 // below if line is for testing purpose
-                if (index == 3) {
+                if (index <= 3) {
                     if (index < files.length) {
                         file = files[index];        // now we require this file (next one)
                         fileData = require(dirPath + file);  // get this file's data
