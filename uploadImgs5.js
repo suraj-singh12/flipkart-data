@@ -59,7 +59,7 @@ doTheUploads = (fileDataIndx, image) => {
                 index++;    // increment file index
 
 
-                if(i == (files.length / 2) + 1) {
+                if(index == (files.length / 2)) {
                     // just to avoid the limit from stopping me
                     apiKey = "b792bad77d56eef39bfdd562cade4479";
                 }
