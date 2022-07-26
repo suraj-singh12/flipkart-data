@@ -10,7 +10,7 @@ let dirPath = './res/json1/';
 // get all files
 let filesList = fs.readdirSync(dirPath);
 let files = [];
-let index = 0;
+let index = 7;
 // filter (valid files only)
 for (f of filesList) {
     if (!f.includes("json") || f.includes("structure"))

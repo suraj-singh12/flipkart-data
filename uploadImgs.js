@@ -4,27 +4,27 @@
 const imgbbUploader = require("imgbb-uploader");
 let fs = require('fs');
 
-let dirPath = './res/json0/';
+let dirPath = './res/json0/';                   // change to yours
 
 // get all files
 let filesList = fs.readdirSync(dirPath);
 let files = [];
 let index = 0;
+
 // filter (valid files only)
 for (f of filesList) {
     if (!f.includes("json") || f.includes("structure"))
         continue;
     files.push(f);
 }
-// console.log(files);
+
 let file = files[index];
-// console.log(file);
-
 let fileData = require(dirPath + file);
-// console.log(fileData);
 
-let apiKey = "12d0ff2fb51eff3efc38f953224c45b8";
+// let apiKey = "12d0ff2fb51eff3efc38f953224c45b8";
+let apiKey = "10cbcb2747dd653b3cde2596830f876e";
 
+// recursively uploads all the images in the json files in the path told by `dirPath`
 doTheUploads = (fileDataIndx, image) => {
     imgbbUploader(apiKey, image)
         .then((response) => {
@@ -40,15 +40,6 @@ doTheUploads = (fileDataIndx, image) => {
             if (fileDataIndx < fileData.length - 1) {
                 doTheUploads(fileDataIndx + 1, fileData[fileDataIndx + 1]['image']);
             } else {
-                // if all object's images are uploaded, then go to next file
-                // then write this object into the file.
-
-                // // delete the old file
-                // fs.unlink(dirPath + file, (err) => {
-                //     if (err) throw err;
-                //     console.log(dirPath + file + ' deleted');
-                // })
-
                 // write updated file
                 fs.writeFile('./res/json0M/' + file, JSON.stringify(fileData), (err) => {
                     if (err) throw err;
@@ -59,9 +50,11 @@ doTheUploads = (fileDataIndx, image) => {
                 index++;    // increment file index
                 if(index == (files.length / 2)) {
                     // just to avoid the limit from stopping me
-                    apiKey = "fdc6d5ce7e9b6659351983f731eb8a88";
+                    // apiKey = "fdc6d5ce7e9b6659351983f731eb8a88";
+                    apiKey = "10cbcb2747dd653b3cde2596830f876e";
                 }
 
+                // call for next file (recursively)
                 if (index < files.length) {
                     file = files[index];        // now we require this file (next one)
                     fileData = require(dirPath + file);  // get this file's data
@@ -74,5 +67,6 @@ doTheUploads = (fileDataIndx, image) => {
         .catch((error) => console.error(error));
 }
 
+// call once, rest it will recursively call itself
 doTheUploads(0, fileData[0]['image']);
 

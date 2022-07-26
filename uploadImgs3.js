@@ -9,7 +9,7 @@ let dirPath = './res/json3/';
 // get all files
 let filesList = fs.readdirSync(dirPath);
 let files = [];
-let index = 0;
+let index = 9;
 // filter (valid files only)
 for (f of filesList) {
     if (!f.includes("json") || f.includes("structure"))
@@ -23,7 +23,8 @@ let file = files[index];
 let fileData = require(dirPath + file);
 // console.log(fileData);
 
-let apiKey = "36b0f2077c8e2ee1b5af47d4fd9f9897";
+// let apiKey = "36b0f2077c8e2ee1b5af47d4fd9f9897";
+let apiKey = "4e5b022cd0998e48559beabc592549ea";
 
 doTheUploads = (fileDataIndx, image) => {
     imgbbUploader(apiKey, image)
