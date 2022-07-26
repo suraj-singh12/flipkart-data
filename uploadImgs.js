@@ -5,9 +5,8 @@ let path = require('path');
 // upload all images of a file
 const uploadImgsOf = async (file, dirPath) => {
     let fileData = require(dirPath + '/' + file);
-    let i = 1;
     for (obj of fileData) {
-        await imgbbUploader("f4a18fded7b0472b695f71cbf6854d1f", obj['image'])
+        await imgbbUploader("723d8e9efd8f7fdf5e71af62ccce564a", obj['image'])
             .then((response) => {
                 // console.log(response);
                 console.log(obj['item_id'], response.image.url);
