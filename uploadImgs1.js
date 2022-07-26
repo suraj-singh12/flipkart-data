@@ -1,10 +1,11 @@
 // can only upload one folder in one run.
 // change api key when you copy this file for another folder upload (as a 32 mb limit is there on imgbb account)
 // and folder name
+
 const imgbbUploader = require("imgbb-uploader");
 let fs = require('fs');
 
-let dirPath = './res/json0/';
+let dirPath = './res/json1/';
 
 // get all files
 let filesList = fs.readdirSync(dirPath);
@@ -23,7 +24,7 @@ let file = files[index];
 let fileData = require(dirPath + file);
 // console.log(fileData);
 
-let apiKey = "12d0ff2fb51eff3efc38f953224c45b8";
+let apiKey = "5dba5f92f976ad3c27773d29bcf61c68";
 
 doTheUploads = (fileDataIndx, image) => {
     imgbbUploader(apiKey, image)
@@ -50,16 +51,16 @@ doTheUploads = (fileDataIndx, image) => {
                 // })
 
                 // write updated file
-                fs.writeFile('./res/json0M/' + file, JSON.stringify(fileData), (err) => {
+                fs.writeFile('./res/json1M/' + file, JSON.stringify(fileData), (err) => {
                     if (err) throw err;
-                    console.log('==> # updated ' + './res/json0M/' + file + ' written');
+                    console.log('==> # updated ' + './res/json1M/' + file + ' written');
                 });
 
                 // go to next file
                 index++;    // increment file index
                 if(i == (files.length / 2) + 1) {
                     // just to avoid the limit from stopping me
-                    apiKey = "fdc6d5ce7e9b6659351983f731eb8a88";
+                    apiKey = "8496094b1998a6f768942ca94d52a8db";
                 }
 
                 if (index < files.length) {

@@ -4,7 +4,7 @@
 const imgbbUploader = require("imgbb-uploader");
 let fs = require('fs');
 
-let dirPath = './res/json0/';
+let dirPath = './res/json2/';
 
 // get all files
 let filesList = fs.readdirSync(dirPath);
@@ -23,7 +23,7 @@ let file = files[index];
 let fileData = require(dirPath + file);
 // console.log(fileData);
 
-let apiKey = "12d0ff2fb51eff3efc38f953224c45b8";
+let apiKey = "d0462e810a44bc6f31e8944810678761";
 
 doTheUploads = (fileDataIndx, image) => {
     imgbbUploader(apiKey, image)
@@ -50,18 +50,18 @@ doTheUploads = (fileDataIndx, image) => {
                 // })
 
                 // write updated file
-                fs.writeFile('./res/json0M/' + file, JSON.stringify(fileData), (err) => {
+                fs.writeFile('./res/json2M/' + file, JSON.stringify(fileData), (err) => {
                     if (err) throw err;
-                    console.log('==> # updated ' + './res/json0M/' + file + ' written');
+                    console.log('==> # updated ' + './res/json2M/' + file + ' written');
                 });
 
                 // go to next file
                 index++;    // increment file index
+
                 if(i == (files.length / 2) + 1) {
                     // just to avoid the limit from stopping me
-                    apiKey = "fdc6d5ce7e9b6659351983f731eb8a88";
+                    apiKey = "5d393493709bcae9f09f9456ed8cfa0a";
                 }
-
                 if (index < files.length) {
                     file = files[index];        // now we require this file (next one)
                     fileData = require(dirPath + file);  // get this file's data
