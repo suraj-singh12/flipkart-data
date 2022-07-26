@@ -15,7 +15,7 @@ const uploadImgsOf = async (file) => {
     return fileData;
 }
 
-const uploadImgsOfDir = (dirPath) {
+const uploadImgsOfDir = (dirPath) => {
     let files = fs.readdirSync(dirPath);
 
     for (file of files) {       //  for each file
@@ -26,11 +26,13 @@ const uploadImgsOfDir = (dirPath) {
         let data = require(dirPath + '/' + file);
 
         uploadImgsOf(file);
-        
+
         console.log('back to caller');
         break;
     }
 }
+
+uploadImgsOfDir('./res/json0');
 
 // uploadImgs = (dirPath) => {
 //     let files = fs.readdirSync(dirPath);
