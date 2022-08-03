@@ -38,7 +38,7 @@ for (file of files) {
         obj['old_price'] = Number(obj['old_price']);
         obj['new_price'] = Number(obj['new_price']);
         
-        obj['discount'] = (((obj['old_price'] - obj['new_price']) / obj['old_price']) * 100).toFixed(0);
+        obj['discount'] = Number((((obj['old_price'] - obj['new_price']) / obj['old_price']) * 100).toFixed(0));
         
         console.log(obj['new_price'], ' ', obj['old_price'], ' ', obj['discount']);
         
